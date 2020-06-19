@@ -8,8 +8,7 @@
 
 <p>
 How to graduate from Computer Engineering Department of Amirkabir University of Technology? 
-
-
+<br>
 Read the paper! :)
 </p>
 
