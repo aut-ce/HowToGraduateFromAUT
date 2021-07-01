@@ -16,4 +16,4 @@ Read the paper! :)
 
 See also: https://github.com/ramtinms/CEIT-Docs
 
-Feel free to send your feedback: smahmadpanah@aut.ac.ir
+Feel free to send us your feedback...
