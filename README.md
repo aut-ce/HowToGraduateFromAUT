@@ -1,7 +1,7 @@
 # How To Graduate From AUT
 ## Introduction
 <p dir="rtl">
-توضیح نحوه فارغ‌التحصیلی مقطع کارشناسی و ارشد از دانشکده مهندسی کامپیوتر و فناوری اطلاعات دانشگاه صنعتی امیرکبیر
+توضیح نحوه فارغ‌التحصیلی مقطع کارشناسی و ارشد از دانشکده مهندسی کامپیوتر دانشگاه صنعتی امیرکبیر
 <br>
 اینجا را بخوانید! :)
 </p>
@@ -9,7 +9,7 @@
 <p>
 How to graduate from Computer Engineering Department of Amirkabir University of Technology? 
 <br>
-Read the paper! :)
+Read the guideline! :)
 </p>
 
 ## Additional Resources
